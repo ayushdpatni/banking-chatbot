@@ -7,7 +7,10 @@
 .wrapper{
   width: 100%;
   max-width: 500px;
+  max-height: 600px;
   padding: 30px 30px;
+  padding-top: 5%;
+  padding-bottom: 5%;
   background: #fdfdfe;
   border-radius: 20px;
   box-shadow: 0 4px 4px rgba(0,0,0,0.4);
@@ -107,3 +110,10 @@
   padding-left:0.5%;
 }
 
+.text-bottom{
+  padding-top: 5%;
+  align-self: center;
+  align-content: center;
+  font-size: small;
+  text-align: center;
+}
